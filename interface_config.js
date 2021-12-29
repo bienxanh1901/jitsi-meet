@@ -27,8 +27,8 @@ var interfaceConfig = {
     CLOSE_PAGE_GUEST_HINT: false, // A html text to be shown to guests on the close page, false disables it
 
     DEFAULT_BACKGROUND: '#040404',
-    DEFAULT_LOGO_URL: 'images/sumato/Sumato-Online-Logo.png',
-    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/sumato/Sumato-Online-Logo.png',
+    DEFAULT_LOGO_URL: 'images/sumato/Sumato-Online-Logo-2.png',
+    DEFAULT_WELCOME_PAGE_LOGO_URL: 'images/sumato/Sumato-Online-Logo-2.png',
 
     DISABLE_DOMINANT_SPEAKER_INDICATOR: false,
 
