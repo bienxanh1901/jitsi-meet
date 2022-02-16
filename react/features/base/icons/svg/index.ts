@@ -151,3 +151,5 @@ export { default as IconWifi2Bars } from './wifi-2.svg';
 export { default as IconWifi3Bars } from './wifi-3.svg';
 export { default as IconYahoo } from './yahoo.svg';
 export { default as IconSip } from './sip.svg';
+// haipham
+export { default as IconPinScreen } from './pin-screen.svg'
