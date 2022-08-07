@@ -752,21 +752,10 @@ class Toolbox extends Component<Props> {
             Content: LinkToSalesforceButton,
             group: 2
         };
-        const muteEveryone = {
-            key: 'mute-everyone',
-            Content: MuteEveryoneButton,
-            group: 2
-        };
 
         const pinscreen = {
             key: 'pin-screen',
             Content: PinScreenButton,
-            group: 2
-        };
-
-        const muteVideoEveryone = {
-            key: 'mute-video-everyone',
-            Content: MuteEveryonesVideoButton,
             group: 2
         };
 
@@ -873,8 +862,6 @@ class Toolbox extends Component<Props> {
             recording,
             livestreaming,
             linkToSalesforce,
-            muteEveryone,
-            muteVideoEveryone,
             pinscreen, // haipham
             shareVideo,
             shareAudio,
